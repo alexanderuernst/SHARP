@@ -26,7 +26,7 @@ If the user wishes to change the values of individual parameters (e.g., the valu
 
 **5. Example Test Case**
 
-To confirm that the program is functioning properly, I recommend that the following inputs are provided (estimated run time: min):
+To confirm that the program is functioning properly, I recommend that the following inputs are provided (estimated run time: 5 minutes and 40 seconds):
 
 
   _Enter BAP geometry type (1 = planar slab, 2 = cylinder, 3 = hollow cylinder):_  1
@@ -53,4 +53,3 @@ In addition, a COMSOL file entitled "YourModel.m" should appear in the "COMSOL M
 **6. Reproducing Manuscript Results**
 
 Results near those provided in the manuscript _A predictive computational platform for optimizing the design of bioartificial pancreas devices_, currently under review at _Nature Communications_, can be reproduced by inputting the parameters of the devices as described in the manuscript text and supplementary information. Again, exact values cannot be obtained as the program results are stochastic. 
-
