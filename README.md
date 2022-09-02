@@ -2,10 +2,7 @@
 
 Alexander Ulrich Ernst, PhD (email: aue2@cornell.edu)
 
-Date created: 20Jul20
-
-Last updated: 02Sep22
-
+September 2, 2022
 
 **1. Description**
 
